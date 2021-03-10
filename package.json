@@ -1,0 +1,9 @@
+{
+  "name": "self-checkout-exercise",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
